@@ -39,3 +39,12 @@ alt+126
 ## pegar imagenes
 
 ![este es una img](https://t2.genius.com/unsafe/286x220/https%3A%2F%2Fimages.genius.com%2Fc8f750fb3e9dc6409d73e87cadc248e3.481x370x1.jpg)
+
+## pegar codigo
+```javascript
+var a=1
+```
+
+```python
+var a=1
+```

@@ -16,6 +16,10 @@ public class May {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
     
+     //solo numeros, cadenas
+        /*para un parrafo de comentario
+        ...........
+        parrafo
+        */
 }

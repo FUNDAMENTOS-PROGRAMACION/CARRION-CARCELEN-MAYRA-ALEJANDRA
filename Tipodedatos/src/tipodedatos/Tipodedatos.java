@@ -23,16 +23,28 @@ public class Tipodedatos {
     String cadena="hola mundi";
     boolean VoF= false;
     //para cambiar un valor
-    valorBool=true;
+    //valorBool=true;
     
+    //escribir funciones
     
+    public  static void imprimirNombre(){
+        //imprimir
+        System.out.println("May");
+        
+    }
+   
+    public static int suma2Numeros 
+        (int num1, int num2){
+        int suma=num1+num2;
+        return suma;
     
+    }
     
-    
-    
-    
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         // TODO code application logic here
+        imprimirNombre();
+        suma2Numeros(5,8);
+        System.out.println(suma2Numeros(5,8));
     }
     
     // comentario de una sola linea

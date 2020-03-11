@@ -29,7 +29,29 @@ public class Tipodedatos {
     
     public  static void imprimirNombre(){
         //imprimir
-        System.out.println("May");
+        // \n salto de linea
+        // \t tabular, espacio para un lado
+        // \b borrar a la izquierca
+        // \f comienzo de pagina
+        // \r retroceder java script
+        // comentario de un linea
+        
+       
+        System.out.println("May \n Carrión");
+        System.out.println("ca \t rrion");
+        
+        String nombre ="       MAYRA carrion 20";
+        System.out.println(nombre.length());
+        System.out.println(nombre.trim());
+        System.out.println(nombre);
+        // si le pongo doble slah hya no sale
+        System.out.println(nombre.toUpperCase());
+        System.out.println(nombre.toLowerCase());
+        System.out.println(nombre.replace(nombre, "1"));
+        System.out.println(nombre);
+        System.out.println(nombre.split("-"));
+        
+        
         
     }
    
